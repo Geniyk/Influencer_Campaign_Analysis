@@ -1,7 +1,7 @@
 
 # Influencer Campaign Performance Dashboard
 
-# Dashoard Link: https://app.powerbi.com/groups/me/reports/f618adcd-834f-456d-9a93-04d150f6daa9/be503ec2f2d9b5558062?experience=power-bi
+# Dashoard Link: [https://app.powerbi.com/groups/me/reports/f618adcd-834f-456d-9a93-04d150f6daa9/be503ec2f2d9b5558062?experience=power-bi](https://app.powerbi.com/groups/me/reports/f618adcd-834f-456d-9a93-04d150f6daa9/8ac0fc7c7a6ad04d8749?experience=power-bi)
 
 # Problem Statement:
 This dashboard helps marketing teams and brands understand the performance of their influencer campaigns better. It tracks various aspects of influencer activities—such as follower count, post engagement, and campaign-based revenue—to measure the return on investment (ROI) and optimize future strategies.
